@@ -3,9 +3,9 @@ Simulate a rock, paper, scissor game on your computer!
 
 ## Dependencies
 You need to have Python installed as well as an integrated development environment (IDE) such as PyCharm or VS Code to run Python in. 
-Download Python at: https://www.python.org/downloads/
-Download PyCharm at: https://www.jetbrains.com/pycharm/download/
-Download Visual Studio Code (VS Code) at: https://code.visualstudio.com/download
+- Download Python at: https://www.python.org/downloads/
+- Download PyCharm at: https://www.jetbrains.com/pycharm/download/
+- Download Visual Studio Code (VS Code) at: https://code.visualstudio.com/download
 
 ## How to Run in PyCharm
 1. Download the main.py file to your computer
